@@ -7,7 +7,7 @@ body {
 /* 標題1*/
 h1 {
     font-size: 3em;
-    color: #bdd6e1;
+    color: #019858;
     text-align: center;
 }
 
@@ -28,7 +28,7 @@ h1 {
     text-decoration: none;
 }
 .navigation ul li a:hover {
-    color: #62d5e8;
+    color: #c4d9e2;
     text-decoration: underline;
 }
 
